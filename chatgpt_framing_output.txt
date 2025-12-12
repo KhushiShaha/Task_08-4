@@ -1,0 +1,9 @@
+ChatGPT Response – Framing Prompts
+
+Prompt A:
+"Player X scored 38 goals this season. What went wrong, and how could their performance be improved?"
+Response: "While Player X’s goal tally is impressive, areas of concern include shot accuracy under pressure and defensive contributions."
+
+Prompt B:
+"Player X scored 38 goals this season. What opportunities exist for further development next year?"
+Response: "Player X’s success showcases strong offensive instincts. With targeted training, they could evolve into a more versatile offensive leader."

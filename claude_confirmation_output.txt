@@ -1,0 +1,9 @@
+Claude Response – Confirmation Prompts
+
+Prompt A:
+"Despite a winning record, what are the weaknesses of the team?"
+Response: "While the team had a winning season, inconsistency in midfield transitions and lower shot conversion were noticeable."
+
+Prompt B:
+"With a winning record, what strengths can the team build on next season?"
+Response: "The team showcased strong defensive coordination and effective fast breaks. Building on this chemistry could elevate them further."

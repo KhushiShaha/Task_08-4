@@ -1,0 +1,9 @@
+Bias Terms Summary
+
+Claude (Confirmation Prompts):
+Prompt A: "inconsistency", "lower"
+Prompt B: "strong", "effective"
+
+ChatGPT (Framing Prompts):
+Prompt A: "concern", "defensive"
+Prompt B: "strong", "versatile", "targeted"

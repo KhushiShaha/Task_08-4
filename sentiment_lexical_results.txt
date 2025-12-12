@@ -1,0 +1,9 @@
+Sentiment and Lexical Diversity Results
+
+Claude:
+Sentiment Polarity: 0.17
+Lexical Diversity: 0.58
+
+ChatGPT:
+Sentiment Polarity: 0.24
+Lexical Diversity: 0.61
